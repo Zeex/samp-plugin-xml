@@ -1,5 +1,5 @@
 {
-	"user": "Marevin",
+	"user": "Zeex",
 	"repo": "samp-plugin-xml",
 	"include_path": "include",
 	"resources": [
@@ -15,7 +15,7 @@
 		}
 	],
 	"runtime": {
-		"plugins": ["Marevin/samp-plugin-xml"]
+		"plugins": ["Zeex/samp-plugin-xml"]
 	},
 	"contributors": ["Zeex"]
 }
