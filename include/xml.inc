@@ -1,3 +1,14 @@
+/**
+ * XML plugin for SA-MP server - Zeex
+ * Provides API for parsing XML files
+ *
+ */
+
+#if defined _INC_XML
+	#endinput
+#endif
+#define _INC_XML
+
 enum e_XML_NODE_TYPE {
 	e_XML_NODE_DOCUMENT,
 	e_XML_NODE_ELEMENT,
