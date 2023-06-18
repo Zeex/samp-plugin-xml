@@ -1,0 +1,21 @@
+{
+	"user": "Marevin",
+	"repo": "samp-plugin-xml",
+	"include_path": "include",
+	"resources": [
+		{
+			"name": "xml.so",
+			"platform": "linux",
+			"archive": false
+		},
+		{
+			"name": "xml.dll",
+			"platform": "windows",
+			"archive": false
+		}
+	],
+	"runtime": {
+		"plugins": ["Marevin/samp-plugin-xml"]
+	},
+	"contributors": ["Zeex"]
+}
