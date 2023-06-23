@@ -1,3 +1,14 @@
+/*
+ * XML plugin by Zeex
+ *
+ * https://github.com/Zeex/samp-plugin-xml
+ */
+
+#if defined XML_INC
+	#endinput
+#endif
+#define XML_INC
+
 enum e_XML_NODE_TYPE {
 	e_XML_NODE_DOCUMENT,
 	e_XML_NODE_ELEMENT,
